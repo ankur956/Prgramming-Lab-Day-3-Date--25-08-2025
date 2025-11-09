@@ -12,3 +12,4 @@ int lastdigit2;
 lastdigit2 =number -(10*x);
 printf("the last digit is %d\n", lastdigit2);
 }
+
