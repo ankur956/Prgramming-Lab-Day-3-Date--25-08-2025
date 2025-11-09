@@ -9,3 +9,4 @@ printf("the area is %d",a*b);
 printf("the perimeter is%d",2*(a+b));
 return 0;
 }
+
