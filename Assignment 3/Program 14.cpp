@@ -9,3 +9,4 @@ a2=n-(n/10)*10;
 printf("last digit without using modulus function: %d",a2);
 return 0;
 }
+
